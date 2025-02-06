@@ -11,6 +11,7 @@ function Type() {
           "Biomedical Engineer",
           "Open Source Contributor",
           "Full-Stack Experience",
+          'UI Designer'
         ],
         autoStart: true,
         loop: true,
