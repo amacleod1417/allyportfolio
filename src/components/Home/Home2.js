@@ -19,19 +19,19 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I thrive on solviong complx problems with code
+            I thrive on solving complex problems with code.
               <br />
               <br />My main passions lie in
               <i>
-                <b className="purple">AI, blockchain, and healthcare technology </b>
+                <b className="purple"> AI, blockchain, and healthcare technology. </b>
               </i>
               <br />
               <br />
               As a full-stack developer, I build everything from &nbsp;
               <i>
-                <b className="purple">interactive front end experiences</b>to{" "}
+                <b className="purple">interactive front end experiences </b>to{" "}
                 <b className="purple">
-                robust back-end architectures
+                robust back-end architectures.
                 </b>
               </i>
               <br />
@@ -46,7 +46,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js and Next.js.</b>
               </i>
             </p>
           </Col>

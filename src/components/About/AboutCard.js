@@ -9,11 +9,11 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Ally MacLeod </span>
-            from <span className="purple"> Waterloo, Ontario</span>
+            from <span className="purple"> Waterloo, Ontario.</span>
             <br />
-            I am currently employed as a software engineering intern at Christie Digital
+            I am currently employed as a software engineering intern at Christie Digital.
             <br />
-            I am pursuing a bacherlor's in biomedical engineering at the University of Waterloo, with an option in software engineering.
+            I am pursuing a bachelor's in biomedical engineering at the University of Waterloo, with an option in software engineering.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
