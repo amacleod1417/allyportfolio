@@ -4,7 +4,6 @@ import {
   //SiVisualstudiocode,
   SiPostman,
   SiVercel,
-  SiMacos,
   SiFigma,
 } from "react-icons/si";
 import {
